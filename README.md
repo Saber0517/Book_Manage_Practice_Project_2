@@ -1,3 +1,3 @@
-# week7_day3_spring_hibernate_demo
+# Book_Manage_Practice_Project
 
 a practice to use spring work with hibernate
